@@ -1,6 +1,6 @@
 # Label Generation
 
-THis project allows to locate objects that have been labeled in domain in new domains and assign them the same label. Training with this additional automatically generated data can improve the performance of Deep Learning models in new domains.
+This project allows to locate objects that have been labeled in domain in new domains and assign them the same label. Training with this additional automatically generated data can improve the performance of Deep Learning models in new domains.
 
 This project was created during a research stay at the NavLab at Carnegie Mellon University in the scope of my Master's Thesis. 
 
