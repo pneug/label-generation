@@ -4,6 +4,8 @@ This project allows to locate objects that have been labeled in domain in new do
 
 This project was created during a research stay at the NavLab at Carnegie Mellon University in the scope of my Master's Thesis. 
 
+![Overview](images/domains.png)
+
 ![Overview](images/overview.png)
 
 Overview of the Reconstruction Pipeline (top) and Label Generation Pipeline
